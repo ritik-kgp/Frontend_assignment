@@ -37,3 +37,5 @@ Make sure you have the following installed:
 
 2. npm install 
 3. npm run dev
+
+Live at: https://ritik-kgp.github.io/Frontend_assignment/
