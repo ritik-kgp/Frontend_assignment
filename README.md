@@ -1,8 +1,42 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A brief description of your project.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This project is built with Vite and uses Tailwind CSS for styling. It provides a flexible form rendering component with support for various input types.
+
+## Features
+
+- Dynamic form rendering based on JSON schema
+- Support for input, select, switch, radio, and group components
+- Conditional rendering based on user interactions
+- Customizable styling using Tailwind CSS
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (>= v14)
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) package manager
+- Tailwind
+
+## Getting Started
+
+1. Clone the repository:
+
+   git clone https://github.com/ritik-kgp/json_previewer.git
+
+2. npm install 
+3. npm run dev
