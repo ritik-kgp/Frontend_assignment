@@ -8,10 +8,6 @@ A brief description of your project.
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -31,6 +27,7 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (>= v14)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) package manager
 - Tailwind
+- react-icons(latest)
 
 ## Getting Started
 
